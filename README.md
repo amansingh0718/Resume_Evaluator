@@ -1,6 +1,7 @@
 # AI Resume Match Analyzer
 
 A Streamlit-based resume and job-description matching application using Groq and Pydantic.
+Helps user to know how fit he is for the role he applying for.
 
 ## Features
 
