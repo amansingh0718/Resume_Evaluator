@@ -3,6 +3,10 @@
 A Streamlit-based resume and job-description matching application using Groq and Pydantic.
 Helps user to know how fit he is for the role he applying for.
 
+## Live Demo
+
+https://resumeevaluator-9cezgnjfstcvz4bwpkjwpc.streamlit.app/
+
 ## Features
 
 - Upload PDF/DOCX resume directly from UI
